@@ -18,3 +18,7 @@
 !/tmp/.keep
 
 .byebug_history
+
+# angular 2
+/client/node_modules
+/client/dist
